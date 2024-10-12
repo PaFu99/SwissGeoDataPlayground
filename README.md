@@ -14,5 +14,8 @@ Color mapping based on terrain elevation.
 ## Test data download
 The data has been downloaded [here](https://www.swisstopo.admin.ch/de/hoehenmodell-swissalti3d)
 
+![image](https://github.com/user-attachments/assets/5c6f6819-662c-416a-97ea-cd75ea7e79b2)
+
+
 ## Data info
 .xyz data was used for testing and a 10m distance was used for performance reasons
