@@ -10,3 +10,9 @@ Read geospatial coordinates from an .xyz file.
 Perform Delaunay triangulation on the coordinates.
 Visualize the triangulated surface in 3D.
 Color mapping based on terrain elevation.
+
+## Test data download
+The data has been downloaded [here](https://www.swisstopo.admin.ch/de/hoehenmodell-swissalti3d)
+
+## Data info
+.xyz data was used for testing and a 10m distance was used for performance reasons
